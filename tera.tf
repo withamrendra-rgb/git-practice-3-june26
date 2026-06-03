@@ -1,1 +1,5 @@
 terrafor{}
+
+provider "azurerm"{
+    features{}
+}
